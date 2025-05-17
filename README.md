@@ -12,7 +12,7 @@ This project combines the power of computer vision and machine learning to creat
 5. The pressed key will appear in the text box on the screen.
 
 
-[Watch The Demo ▶️](https://github.com/user-attachments/assets/1fe81715-ed7f-4d2a-9459-f0a7fd5277da)
+▶️ [Watch the demo video(https://github.com/user-attachments/assets/1fe81715-ed7f-4d2a-9459-f0a7fd5277da)]
 
 
 
@@ -45,10 +45,11 @@ pip install cvzone
 ## 🧠 Features
 Fully interactive virtual keyboard
 Real-time hand detection and gesture recognition
-Simulates real keyboard layout with space and delete functionality
+Simulates a real keyboard layout with space and delete functionality
 Clean, responsive UI with visual feedback
 Adjustable font sizes and button dimensions
 
 
 
-## Lastly, This project combines computer vision and human-computer interaction in an engaging way. It's not only fun to use but also opens the door for accessibility tools, gaming input systems, or gesture-controlled interfaces
+## Lastly ✅🔚
+This project combines computer vision and human-computer interaction in an engaging way. It's not only fun to use but also opens the door for accessibility tools, gaming input systems, or gesture-controlled interfaces
