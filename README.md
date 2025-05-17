@@ -1,10 +1,10 @@
 
 # Virtual Keyboard with Hand Tracking
-###### 🚀 Overview
+## 🚀 Overview
 Ever imagined typing without touching a single key? Welcome to the future of interaction — a gesture-controlled virtual keyboard that lets you type in mid-air using just your fingers and a webcam!
 This project combines the power of computer vision and machine learning to create a futuristic typing experience. With just your hand and a camera, you can type letters, hit space, and even delete — all without a physical keyboard. Whether you're building for accessibility, exploring human-computer interaction, or just love cool tech, this project delivers a fun, interactive experience that feels like something out of a sci-fi movie.
 
-##### How To Play:
+## How It Work ⚙️:
 1. Run the program on your computer.
 2. Position your hand in front of the webcam (index finger pointing up).
 3. Hover your finger over the desired key on the screen.
