@@ -11,7 +11,7 @@ This project combines the power of computer vision and machine learning to creat
 5. The pressed key will appear in the text box on the screen.
 
 
-[](https://github.com/user-attachments/assets/f1f8501c-477d-4e68-8dde-83815ee85342)
+[Watch The Demo ▶️](https://github.com/user-attachments/assets/f1f8501c-477d-4e68-8dde-83815ee85342)
 
 
 
