@@ -1,3 +1,4 @@
+
 # Virtual Keyboard with Hand Tracking
 ###### 🚀 Overview
 Ever imagined typing without touching a single key? Welcome to the future of interaction — a gesture-controlled virtual keyboard that lets you type in mid-air using just your fingers and a webcam!
@@ -11,7 +12,7 @@ This project combines the power of computer vision and machine learning to creat
 5. The pressed key will appear in the text box on the screen.
 
 
-[Watch The Demo ▶️](https://github.com/user-attachments/assets/f1f8501c-477d-4e68-8dde-83815ee85342)
+[Watch The Demo ▶️](https://github.com/user-attachments/assets/1fe81715-ed7f-4d2a-9459-f0a7fd5277da)
 
 
 
